@@ -1,6 +1,6 @@
   # 💫 About Me:
 🔭 I’m currently working on CRUD_VITE<br><br>👯 I’m looking to collaborate on open-source projects related to React and Node.js.<br><br>🤝 I’m looking for help with optimizing performance in my React applications.<br><br>🌱 I’m currently learning about different React concepts.<br><br>💬 Ask me about anything.<br><br>⚡ Fun fact: I enjoy watching Capybara! 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1908599/screenshots/11122765/media/481ccdcc9f3e8ef4d8d6996366da5c9b.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1908599/screenshots/11122765/media/481ccdcc9f3e8ef4d8d6996366da5c9b.gif">
 <div align="center" style="background: linear-gradient(135deg, #ff0080, #ff8c00); padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(255, 0, 128, 0.7), 0 0 30px rgba(255, 140, 0, 0.7);">
   
 ## 🌐 Socials:
