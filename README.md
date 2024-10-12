@@ -1,4 +1,5 @@
-# 💫 About Me:
+<div align="center">
+  # 💫 About Me:
 🔭 I’m currently working on CRUD_VITE<br><br>👯 I’m looking to collaborate on open-source projects related to React and Node.js.<br><br>🤝 I’m looking for help with optimizing performance in my React applications.<br><br>🌱 I’m currently learning about different React concepts.<br><br>💬 Ask me about anything.<br><br>⚡ Fun fact: I enjoy watching Capybara! 
 
 
@@ -22,3 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=itsJLCG&icon=7&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
